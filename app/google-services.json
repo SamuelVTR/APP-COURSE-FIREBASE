@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "98396497041",
+    "firebase_url": "https://siblings-e365a.firebaseio.com",
+    "project_id": "siblings-e365a",
+    "storage_bucket": "siblings-e365a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98396497041:android:850f1d3bbb269145",
+        "android_client_info": {
+          "package_name": "com.example.chronicle972.siblings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98396497041-rmmq6rnpjhtacfpe18til9o4jd1uksmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOdpzlj1zg7jtr4vErk40HmEjJRsFr6RY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
